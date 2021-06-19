@@ -1,2 +1,2 @@
 # sandeep.github.io
-new prj
+newprj
